@@ -14,10 +14,12 @@
 
 ## ▶️ How to Run
 Make sure you have Python installed (version 3.x recommended). Then:
-
+```
 python chatbot.py
+```
 
 ##💡 Example Interaction
+
 🤖 PyBot: Hello! What's your name?
 🧑 You: Alex
 🤖 PyBot: Nice to meet you, Alex! Type something to chat. Type 'bye' to exit.
