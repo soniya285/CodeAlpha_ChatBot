@@ -15,7 +15,6 @@
 ## ▶️ How to Run
 Make sure you have Python installed (version 3.x recommended). Then:
 
-```bash
 python chatbot.py
 
 ##💡 Example Interaction
